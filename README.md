@@ -1,3 +1,26 @@
+# Assembly EndGame
+
+This project is part of a **React** application designed to create an interactive and engaging game.
+
+## Description
+
+The **Assembly EndGame** is a game that allows users to engage in fun, logic-based challenges. The game is built using **React** and involves various components to handle user interaction, state management, and rendering game logic.
+
+## Features
+
+- Dynamic UI for game play
+- Easy navigation through different stages of the game
+- Interactive design with animated transitions
+- Built with **React.js** and state management
+
+## Installation
+
+To get started with this project, follow these steps:
+
+# Clone the repository:
+   ```bash
+   git clone https://github.com/Kirubhakaran003/Assembly_EndGame.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
